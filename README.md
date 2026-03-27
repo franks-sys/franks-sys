@@ -1,15 +1,6 @@
 <div align="center">
-  
+
 ![Franks](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=1&pause=99999&color=30BF86&center=true&vCenter=true&width=600&height=100&lines=FRANKS)
-
-
-███████╗██████╗  █████╗ ███╗   ██╗██╗  ██╗███████╗
-██╔════╝██╔══██╗██╔══██╗████╗  ██║██║ ██╔╝██╔════╝
-█████╗  ██████╔╝███████║██╔██╗ ██║█████╔╝ ███████╗
-██╔══╝  ██╔══██╗██╔══██║██║╚██╗██║██╔═██╗ ╚════██║
-██║     ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30BF86&center=true&vCenter=true&width=500&lines=Developer;C%2B%2B+%7C+JavaScript+%7C+Node.js;Building+cool+stuff+%F0%9F%9A%80;Always+learning+%F0%9F%93%9A;Open+to+collaborations+%F0%9F%A4%9D)
 
@@ -20,6 +11,7 @@
 <img align="right" width="360" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=franks&theme=transparent"/>
 
 ### `> whoami`
+
 ```yaml
 name:     Franks
 handle:   franks
@@ -71,6 +63,7 @@ open_to:  Collaborations & new ideas
 ### `> top --processes`
 
 <div align="center">
+
 ```
 PID   NAME              STATUS      PRIORITY
 ───────────────────────────────────────────
@@ -94,6 +87,7 @@ PID   NAME              STATUS      PRIORITY
 ---
 
 ### `> cat /etc/philosophy`
+
 ```
 > "First, solve the problem. Then, write the code."
 > "Make it work. Make it right. Make it fast."
