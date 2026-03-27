@@ -70,29 +70,11 @@ open_to:  Collaborations & new ideas
 ---
 
 
-
-<div align="center">
-```
-PID   NAME              STATUS      PRIORITY
-───────────────────────────────────────────
-001   backend_dev       running     HIGH
-002   learning_cpp      running     HIGH
-003   side_projects     running     MEDIUM
-004   coffee.service    running     CRITICAL ☕
-```
-
-</div>
-
 ---
 
 ---
 
 
-```
-> "First, solve the problem. Then, write the code."
-> "Make it work. Make it right. Make it fast."
-> "Code is read more often than it is written."
-```
 
 ---
 
