@@ -9,8 +9,6 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30BF86&center=true&vCenter=true&width=500&lines=Developer;C%2B%2B+%7C+JavaScript+%7C+Node.js;Building+cool+stuff+%F0%9F%9A%80;Always+learning+%F0%9F%93%9A;Open+to+collaborations+%F0%9F%A4%9D)
-
 </div>
 
 <picture>
@@ -22,7 +20,7 @@
 
 <img align="right" width="360" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=franks-sys&theme=transparent"/>
 
-### `> whoami`
+
 ```yaml
 name:     Franks
 handle:   franks-sys
@@ -38,7 +36,7 @@ open_to:  Collaborations & new ideas
 
 ---
 
-### `> git log --oneline`
+
 
 <div align="center">
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franks-sys&theme=transparent"/>
@@ -53,7 +51,7 @@ open_to:  Collaborations & new ideas
 
 ---
 
-### `> ls ./stack`
+
 
 <br/>
 
@@ -71,7 +69,7 @@ open_to:  Collaborations & new ideas
 
 ---
 
-### `> top --processes`
+
 
 <div align="center">
 ```
@@ -87,16 +85,9 @@ PID   NAME              STATUS      PRIORITY
 
 ---
 
-### `> cat contribution_graph.svg`
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franks-sys/franks-sys/output/pacman-contribution-graph-dark.svg">
-<img src="https://raw.githubusercontent.com/franks-sys/franks-sys/output/pacman-contribution-graph.svg">
-</picture>
-
 ---
 
-### `> cat /etc/philosophy`
+
 ```
 > "First, solve the problem. Then, write the code."
 > "Make it work. Make it right. Make it fast."
