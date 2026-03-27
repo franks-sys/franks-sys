@@ -1,14 +1,15 @@
 <div align="center">
+  
+![Franks](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=1&pause=99999&color=30BF86&center=true&vCenter=true&width=600&height=100&lines=FRANKS)
 
-```
+
 ███████╗██████╗  █████╗ ███╗   ██╗██╗  ██╗███████╗
 ██╔════╝██╔══██╗██╔══██╗████╗  ██║██║ ██╔╝██╔════╝
 █████╗  ██████╔╝███████║██╔██╗ ██║█████╔╝ ███████╗
 ██╔══╝  ██╔══██╗██╔══██║██║╚██╗██║██╔═██╗ ╚════██║
 ██║     ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-```
-![Franks](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=1&pause=99999&color=30BF86&center=true&vCenter=true&width=600&height=100&lines=FRANKS)
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30BF86&center=true&vCenter=true&width=500&lines=Developer;C%2B%2B+%7C+JavaScript+%7C+Node.js;Building+cool+stuff+%F0%9F%9A%80;Always+learning+%F0%9F%93%9A;Open+to+collaborations+%F0%9F%A4%9D)
 
