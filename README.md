@@ -1,22 +1,5 @@
 
-
-```yaml
-name:     Franks
-handle:   franks-sys
-role:     Developer
-focus:    Backend & Web
-based:    Brazil 🇧🇷
-status:   Always building something
-passion:  Clean code & fast systems
-open_to:  Collaborations & new ideas
-```
-
-<br/><br/><br/><br/>
-
 ---
-
-
-
 <div align="center">
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franks-sys&theme=transparent"/>
 </div>
